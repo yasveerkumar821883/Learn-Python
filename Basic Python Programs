@@ -1,0 +1,4 @@
+s1=(input("Enter first Name : "))
+s2=(input("Enter Last Name : "))
+s3=f"Hello, {s1+" "+s2} Welcome to the Python Developer"
+print(s3)
